@@ -1,5 +1,18 @@
+version 2
+
+tooltips の内容に含まれる文字列を二個検索して両方が見つかれば、表示されないようにしました。
+二個の文字列が含まれない tooltips はそのまま表示されつづけます。
+
+https://github.com/TTSS000/MT4DelTooltip/blob/main/MT4DelTooltipV2.zip
+この URL にアクセスして、download ボタンでダウンロードしてください。
+mq4 もバージョンアップして、コードのなかで、文字列を指定する(初期値は "vs" と "最終価格")ようになってます。
+
+以上
+----------------------------------
 # MT4DelTooltip
 
+----------------------------------
+version 1
 https://github.com/TTSS000/MT4DelTooltip
 
 サイトにアクセスしていただくと、code という緑のボタンがあります。そこから download zip で zip ファイルをダウンロードします。
