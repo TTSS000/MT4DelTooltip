@@ -3,6 +3,8 @@
 ----------------------------------
 version 4
 dll をマルチスレッドにして、MT4 本体の待ち時間が最小になるようにしました。
+https://github.com/TTSS000/MT4DelTooltip/blob/main/MT4DelTooltipV4.zip
+この URL にアクセスして、download ボタンでダウンロードしてください。
 
 ----------------------------------
 version 2
